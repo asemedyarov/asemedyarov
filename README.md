@@ -4,7 +4,7 @@
   
   # Welcome to the Speedgoat Open-Source Headquarters 👋
   
-  >" 🇨🇭 🇨🇭 :switzerland: Swiss-quality real-time control testing, from prototype to deployment."
+  >"Swiss-quality real-time control testing, from prototype to deployment."
   
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=asemedyarov.visitor-badge)
   
