@@ -1,8 +1,13 @@
 <div align="center">
+  
   ![Speedgoat Logo](SG-cover.jpg)
+  
   # Welcome to the Speedgoat Open-Source Headquarters 👋
+  
   "Rapidly innovate control designs, and thoroughly test controls with real-time digital twins and automated testing."
+  
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=asemedyarov.visitor-badge)
+  
 </div>
 
 [Speedgoat](https://www.speedgoat.com) test systems are ideal for rapidly and continuously prototyping control designs and thoroughly testing embedded controllers with digital twins.
@@ -18,7 +23,9 @@ Rapidly prototype control designs by applying [rapid control prototyping](https:
 [hardware-in-the-loop](https://www.speedgoat.com/solutions/testing-workflows/hardware-in-the-loop) simulation of digital twins, and leverage Speedgoat systems as embedded controllers.
 
 <div align="center">
+  
   ![Testing Workflows](Workflows.png)
+  
 </div>
 
 # Target Machines
