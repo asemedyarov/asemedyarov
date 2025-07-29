@@ -33,8 +33,8 @@ Rapidly prototype control designs by applying [rapid control prototyping](https:
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://www.speedgoat.com/images/products/Performance.png" width="100" alt="Performance"/>
-      <br><strong>Performance</strong><br>
+      <img src="Performance.png" width="100" alt="Performance"/>
+      <br><strong><a href="https://www.speedgoat.com/products-services/real-time-target-machines/performance-real-time-target-machine">Performance</a></strong><br>
       For office and lab use.<br>
       Large I/O expansion capabilities.<br>
       <a href="#">More</a>
