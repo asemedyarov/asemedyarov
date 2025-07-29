@@ -10,7 +10,7 @@
   
 </div>
 
-<h1 align="center">📝 Overview​</h1>
+<h3 align="center">📝 Overview​</h3>
 
 [Speedgoat](https://www.speedgoat.com) test systems are ideal for rapidly and continuously prototyping control designs and thoroughly testing embedded controllers with digital twins.
 
@@ -20,7 +20,7 @@ All Speedgoat systems provide unrivaled workflow integration with MATLAB® and S
 
 Some Speedgoat systems are also ideal to leverage as embedded controllers.
 
-<h1 align="center">🔁✅ Testing Workflows​</h1>
+<h3 align="center">🔁✅ Testing Workflows​</h3>
 
 Rapidly prototype control designs by applying [rapid control prototyping](https://www.speedgoat.com/solutions/testing-workflows/rapid-control-prototyping), test embedded controllers with
 [hardware-in-the-loop](https://www.speedgoat.com/solutions/testing-workflows/hardware-in-the-loop) simulation of digital twins, and leverage Speedgoat systems as embedded controllers.
@@ -31,7 +31,7 @@ Rapidly prototype control designs by applying [rapid control prototyping](https:
   
 </div>
 
-<h1 align="center">🖥️ Explore which Speedgoat Test System is Right for You​​</h1>
+<h3 align="center">🖥️ Explore which Speedgoat Test System is Right for You​​</h3>
 <table align="center">
   <tr>
     <td align="center">
@@ -77,15 +77,15 @@ Rapidly prototype control designs by applying [rapid control prototyping](https:
   </tr>
 </table>
 
-<h1 align="center">📥 Access Reference Examples</h1>
+<h3 align="center">📥 Access Reference Examples</h3>
 
 All examples are available for verified Speedgoat customers via the  
 ➡️ **[Speedgoat Customer Portal](https://www.speedgoat.com/customerportal)**  
 Use your registered account to download files for the specific MATLAB version you are working with.
 
-<h1 align="center">▶️ How-to videos</h1>
+<h3 align="center">▶️ How-to videos</h3>
 
-<h1 align="center">🌐 Follow Us</h1>
+<h3 align="center">🌐 Follow Us</h3>
 
 <div align="center">
 
