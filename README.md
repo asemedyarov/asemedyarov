@@ -28,6 +28,59 @@ Rapidly prototype control designs by applying [rapid control prototyping](https:
   
 </div>
 
+<h3 align="center">🚀 Explore which Speedgoat Test System is Right for You</h3>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://www.speedgoat.com/images/products/Performance.png" width="100" alt="Performance"/>
+      <br><strong>Performance</strong><br>
+      For office and lab use.<br>
+      Large I/O expansion capabilities.<br>
+      <a href="#">More</a>
+    </td>
+    <td align="center">
+      <img src="https://www.speedgoat.com/images/products/Pulse.png" width="100" alt="Pulse"/>
+      <br><strong>Pulse</strong><br>
+      Scalable Desktop System for<br>
+      Control Design Innovation and Controller Testing<br>
+      <a href="#">More</a>
+    </td>
+    <td align="center">
+      <img src="https://www.speedgoat.com/images/products/Mobile.png" width="100" alt="Mobile"/>
+      <br><strong>Mobile</strong><br>
+      For field and harsh environments.<br>
+      Withstand shock and vibration.<br>
+      <a href="#">More</a>
+    </td>
+    <td align="center">
+      <img src="https://www.speedgoat.com/images/products/Baseline.png" width="100" alt="Baseline"/>
+      <br><strong>Baseline</strong><br>
+      Entry-level solution for<br>
+      office to in-vehicle operation.<br>
+      <a href="#">More</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.speedgoat.com/images/products/Unit.png" width="100" alt="Unit"/>
+      <br><strong>Unit</strong><br>
+      Small form factor for<br>
+      desktop and field testing,<br>
+      and embedded deployment.<br>
+      <a href="#">More</a>
+    </td>
+    <td align="center">
+      <img src="https://www.speedgoat.com/images/products/TailoredRack.png" width="100" alt="Tailored Rack System"/>
+      <br><strong>Tailored Rack-System</strong><br>
+      Modular rack system<br>
+      with customization services.<br>
+      <a href="#">More</a>
+    </td>
+    <td colspan="2"></td>
+  </tr>
+</table>
+
 # Target Machines
 
 - Performance
