@@ -10,7 +10,7 @@
   
 </div>
 
-<h3 align="center">📝 Overview​</h3>
+<h2 align="center">📝 Overview​</h2>
 
 [Speedgoat](https://www.speedgoat.com) test systems are ideal for rapidly and continuously prototyping control designs and thoroughly testing embedded controllers with digital twins.
 
@@ -20,7 +20,7 @@ All Speedgoat systems provide unrivaled workflow integration with MATLAB® and S
 
 Some Speedgoat systems are also ideal to leverage as embedded controllers.
 
-<h3 align="center">🔁✅ Testing Workflows​</h3>
+<h2 align="center">🔁✅ Testing Workflows​</h2>
 
 Rapidly prototype control designs by applying [rapid control prototyping](https://www.speedgoat.com/solutions/testing-workflows/rapid-control-prototyping), test embedded controllers with
 [hardware-in-the-loop](https://www.speedgoat.com/solutions/testing-workflows/hardware-in-the-loop) simulation of digital twins, and leverage Speedgoat systems as embedded controllers.
@@ -31,7 +31,7 @@ Rapidly prototype control designs by applying [rapid control prototyping](https:
   
 </div>
 
-<h3 align="center">🖥️ Explore which Speedgoat Test System is Right for You​​</h3>
+<h2 align="center">🖥️ Explore which Speedgoat Test System is Right for You​​</h2>
 <table align="center">
   <tr>
     <td align="center">
@@ -52,14 +52,14 @@ Rapidly prototype control designs by applying [rapid control prototyping](https:
       For field and harsh environments.<br>
       Withstand shock and vibration.<br>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="Baseline.png" width="100" alt="Baseline"/>
       <br><strong><a href="https://www.speedgoat.com/products-services/real-time-target-machines/baseline/products-services/real-time-target-machines/baseline-real-time-target-machine">Baseline</a></strong><br>
       Entry-level solution for<br>
       office to in-vehicle operation.<br>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="Unit.png" width="100" alt="Unit"/>
       <br><strong><a href="https://www.speedgoat.com/products-services/real-time-target-machines/unit-real-time-target-machine">Unit</a></strong><br>
@@ -77,15 +77,14 @@ Rapidly prototype control designs by applying [rapid control prototyping](https:
   </tr>
 </table>
 
-<h3 align="center">📥 Access Reference Examples</h3>
+<h2 align="center">📥 Access Reference Examples</h2>
 
-All examples are available for verified Speedgoat customers via the  
-➡️ **[Speedgoat Customer Portal](https://www.speedgoat.com/customerportal)**  
+All examples are available for verified Speedgoat customers via the  **[Speedgoat Customer Portal](https://www.speedgoat.com/customerportal)**  
 Use your registered account to download files for the specific MATLAB version you are working with.
 
-<h3 align="center">▶️ How-to videos</h3>
+<h2 align="center">▶️ How-to videos</h2>
 
-<h3 align="center">🌐 Follow Us</h3>
+<h2 align="center">🌐 Follow Us</h2>
 
 <div align="center">
 
