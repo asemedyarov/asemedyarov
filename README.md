@@ -10,11 +10,17 @@
 
 </div>
 
-<strong>Short description:</strong> [Speedgoat](https://www.speedgoat.com) bla
+[Speedgoat](https://www.speedgoat.com) test systems are ideal for rapidly and continuously prototyping control designs and thoroughly testing embedded controllers with digital twins.
 
-<strong>Long description:</strong> bla bla bla
+Frequent use cases include designing and testing control designs and embedded controllers at the full system, power system, and power electronics levels, such as the [electrification](https://www.speedgoat.com/solutions/testing-workflows/electrification-of-everything) of [vehicles](https://www.speedgoat.com/solutions/industries/automotive), [aircrafts](https://www.speedgoat.com/solutions/industries/aerospace), and [renewable energies](https://www.speedgoat.com/solutions/industries/power-systems/microgrids-and-renewables), for [medical devices](https://www.speedgoat.com/solutions/industries/medical-devices), and more [autonomous robotics](https://www.speedgoat.com/solutions/industries/robotic-and-autonomous-systems).
 
-<strong>Principles description:</strong> yooo
+All Speedgoat systems provide unrivaled workflow integration with MATLAB® and Simulink® and can also be instrumented through MATLAB® App Designer deployed standalone graphical user interfaces and XIL interfaced test automation software environments enabled by [Simulink® Real-Time™](https://www.mathworks.com/products/simulink-real-time.html).
+
+Some Speedgoat systems are also ideal to leverage as embedded controllers.
+
+### ✅ Testing Workflows​
+Rapidly prototype control designs by applying [rapid control prototyping](https://www.speedgoat.com/solutions/testing-workflows/rapid-control-prototyping), test embedded controllers with
+[hardware-in-the-loop](https://www.speedgoat.com/solutions/testing-workflows/hardware-in-the-loop) simulation of digital twins, and leverage Speedgoat systems as embedded controllers.
 
 # Target Machines
 
