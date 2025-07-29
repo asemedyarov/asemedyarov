@@ -1,22 +1,12 @@
-
-
-<p align="center">
-  # Welcome to the Speedgoat Open-Source Headquarters 👋
-  <br>
-   <img src="SG-cover.jpg" alt="Speedgoat Logo" width="1400" height="350">
-  <br>
-  <strong>Quote</strong>
-  <br>
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=asemedyarov.visitor-badge)
-</p>
-
 <div align="center">
+
+![Speedgoat Logo](SG-cover.jpg)
 
 # Welcome to the Speedgoat Open-Source Headquarters 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=asemedyarov.visitor-badge)
+"Quote"
 
-![Speedgoat Logo](SG-cover.jpg)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=asemedyarov.visitor-badge)
 
 </div>
 
