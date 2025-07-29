@@ -18,7 +18,7 @@ All Speedgoat systems provide unrivaled workflow integration with MATLAB® and S
 
 Some Speedgoat systems are also ideal to leverage as embedded controllers.
 
-# ✅ Testing Workflows​
+## ✅ Testing Workflows​
 Rapidly prototype control designs by applying [rapid control prototyping](https://www.speedgoat.com/solutions/testing-workflows/rapid-control-prototyping), test embedded controllers with
 [hardware-in-the-loop](https://www.speedgoat.com/solutions/testing-workflows/hardware-in-the-loop) simulation of digital twins, and leverage Speedgoat systems as embedded controllers.
 
@@ -28,7 +28,7 @@ Rapidly prototype control designs by applying [rapid control prototyping](https:
   
 </div>
 
-# 🚀 Explore which Speedgoat Test System is Right for You​
+## 🚀 Explore which Speedgoat Test System is Right for You​
 <h1 align="center">🚀 Explore which Speedgoat Test System is Right for You</h1>
 
 <table align="center">
