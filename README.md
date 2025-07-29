@@ -4,7 +4,7 @@
   
   # Welcome to the Speedgoat Open-Source Headquarters 👋
   
-  >"Rapidly innovate control designs, and thoroughly test controls with real-time digital twins and automated testing."
+  >"🇨🇭 Swiss-quality real-time control testing, from prototype to deployment."
   
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=asemedyarov.visitor-badge)
   
