@@ -10,6 +10,8 @@
   
 </div>
 
+<h2 align="center">📝 Overview​</h2>
+
 [Speedgoat](https://www.speedgoat.com) test systems are ideal for rapidly and continuously prototyping control designs and thoroughly testing embedded controllers with digital twins.
 
 Frequent use cases include designing and testing control designs and embedded controllers at the full system, power system, and power electronics levels, such as the [electrification](https://www.speedgoat.com/solutions/testing-workflows/electrification-of-everything) of [vehicles](https://www.speedgoat.com/solutions/industries/automotive), [aircrafts](https://www.speedgoat.com/solutions/industries/aerospace), and [renewable energies](https://www.speedgoat.com/solutions/industries/power-systems/microgrids-and-renewables), for [medical devices](https://www.speedgoat.com/solutions/industries/medical-devices), and more [autonomous robotics](https://www.speedgoat.com/solutions/industries/robotic-and-autonomous-systems).
@@ -18,7 +20,7 @@ All Speedgoat systems provide unrivaled workflow integration with MATLAB® and S
 
 Some Speedgoat systems are also ideal to leverage as embedded controllers.
 
-## ✅ Testing Workflows​
+<h2 align="center">🔁✅ Testing Workflows​</h2>
 Rapidly prototype control designs by applying [rapid control prototyping](https://www.speedgoat.com/solutions/testing-workflows/rapid-control-prototyping), test embedded controllers with
 [hardware-in-the-loop](https://www.speedgoat.com/solutions/testing-workflows/hardware-in-the-loop) simulation of digital twins, and leverage Speedgoat systems as embedded controllers.
 
@@ -28,9 +30,7 @@ Rapidly prototype control designs by applying [rapid control prototyping](https:
   
 </div>
 
-## 🚀 Explore which Speedgoat Test System is Right for You​
-<h1 align="center">🚀 Explore which Speedgoat Test System is Right for You</h1>
-
+<h2 align="center">🖥️ Explore which Speedgoat Test System is Right for You​​</h2>
 <table align="center">
   <tr>
     <td align="center">
@@ -76,17 +76,14 @@ Rapidly prototype control designs by applying [rapid control prototyping](https:
   </tr>
 </table>
 
-# Reference examples
-
-### 📥 Access Reference Examples
-
+<h2 align="center">📥 Access Reference Examples</h2>
 All examples are available for verified Speedgoat customers via the  
 ➡️ **[Speedgoat Customer Portal](https://www.speedgoat.com/customerportal)**  
 Use your registered account to download files for the specific MATLAB version you are working with.
 
-# How-to videos
+<h2 align="center">▶️ How-to videos</h2>
 
-# Follow Us
+<h2 align="center">🌐 Follow Us</h2>
 
 <div align="center">
 
