@@ -1,2 +1,2 @@
 # SG-readme-draft
-![Example Image](LinkedIn Cover.jpg)
+![Speedgoat Logo](SG-cover.jpg)
