@@ -78,7 +78,7 @@ Rapidly prototype control designs by applying [rapid control prototyping](https:
 
 <h2 align="center">📥 Access Reference Examples</h2>
 
-All examples are available for Speedgoat customers via the  **[Speedgoat Customer Portal](https://www.speedgoat.com/customerportal)**  
+All examples are available for Speedgoat customers via the  **[Speedgoat Customer Portal](https://www.speedgoat.com/customerportal)**.
 Use your registered account to download files for the specific MATLAB version you are working with.
 
 <h2 align="center">🌐 Follow Us</h2>
