@@ -73,7 +73,6 @@ Rapidly prototype control designs by applying [rapid control prototyping](https:
       Modular rack system<br>
       with customization services.<br>
     </td>
-    <td colspan="2"></td>
   </tr>
 </table>
 
