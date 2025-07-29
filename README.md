@@ -35,19 +35,19 @@ Rapidly prototype control designs by applying [rapid control prototyping](https:
 <table align="center">
   <tr>
     <td align="center">
-      <img src="Performance.png" width="100" alt="Performance"/>
+      <img src="Performance.png" width="190" alt="Performance"/>
       <br><strong><a href="https://www.speedgoat.com/products-services/real-time-target-machines/performance-real-time-target-machine">Performance</a></strong><br>
       For office and lab use.<br>
       Large I/O expansion capabilities.<br>
     </td>
     <td align="center">
-      <img src="Pulse.png" width="100" alt="Pulse"/>
+      <img src="Pulse.png" width="190" alt="Pulse"/>
       <br><strong><a href="https://www.speedgoat.com/products-services/real-time-target-machines/pulse-real-time-target-machine">Pulse</a></strong><br>
       Scalable Desktop System for<br>
       Control Design Innovation and Controller Testing<br>
     </td>
     <td align="center">
-      <img src="Mobile.png" width="100" alt="Mobile"/>
+      <img src="Mobile.png" width="190" alt="Mobile"/>
       <br><strong><a href="https://www.speedgoat.com/products-services/real-time-target-machines/mobile/products-services/real-time-target-machines/performance-real-time-target-machine">Mobile</a></strong><br>
       For field and harsh environments.<br>
       Withstand shock and vibration.<br>
@@ -55,20 +55,20 @@ Rapidly prototype control designs by applying [rapid control prototyping](https:
   </tr>
   <tr>
     <td align="center">
-      <img src="Baseline.png" width="100" alt="Baseline"/>
+      <img src="Baseline.png" width="190" alt="Baseline"/>
       <br><strong><a href="https://www.speedgoat.com/products-services/real-time-target-machines/baseline/products-services/real-time-target-machines/baseline-real-time-target-machine">Baseline</a></strong><br>
       Entry-level solution for<br>
       office to in-vehicle operation.<br>
     </td>
     <td align="center">
-      <img src="Unit.png" width="100" alt="Unit"/>
+      <img src="Unit.png" width="190" alt="Unit"/>
       <br><strong><a href="https://www.speedgoat.com/products-services/real-time-target-machines/unit-real-time-target-machine">Unit</a></strong><br>
       Small form factor for<br>
       desktop and field testing,<br>
       and embedded deployment.<br>
     </td>
     <td align="center">
-      <img src="Rack.png" width="100" alt="Tailored Rack System"/>
+      <img src="Rack.png" width="190" alt="Tailored Rack System"/>
       <br><strong><a href="https://www.speedgoat.com/products-services/rack-systems">Tailored Rack-System</a></strong><br>
       Modular rack system<br>
       with customization services.<br>
