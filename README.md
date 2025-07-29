@@ -26,6 +26,12 @@
 
 # Reference examples
 
+### 📥 Access Reference Examples
+
+All examples are available for verified Speedgoat customers via the  
+➡️ **[Speedgoat Customer Portal](https://www.speedgoat.com/customerportal)**  
+Use your registered account to download files for the specific MATLAB version you are working with.
+
 # How-to videos
 
 # Follow Us
